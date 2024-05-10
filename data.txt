@@ -1,0 +1,58 @@
+|https://www.youtube.com/
+#player-ads
+#merch-shelf
+#masthead-ad
+#offer-module
+#watch-channel-brand-div
+#watch7-sidebar-ads
+#contents > ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)
+#ad_creative_3
+#footer-ads
+ytp-ad-button
+ytp-ad-progress-list
+ytd-companion-slot-renderer
+ytd-in-feed-ad-layout-renderer
+ytd-action-companion-ad-renderer
+ytp-ad-player-overlay-flyout-cta
+ytd-promoted-sparkles-web-renderer
+ytd-player-legacy-desktop-watch-ads-renderer
+ytd-rich-item-renderer > ytd-ad-slot-renderer
+ytd-display-ad-renderer
+ytd-carousel-ad-renderer
+ytd-compact-promoted-video-renderer
+ytd-promoted-sparkles-text-search-renderer
+ytd-ad-slot-renderer
+masthead-ad-control
+ytd-promoted-video-renderer
+ad-container
+ad-div
+video-ads
+ytd-mealbar-promo-renderer
+sparkles-light-cta
+|https://hayat.ba/
+#hayat_ba_1000x100_anchor_responsive
+#stpd_close
+#tdi_35
+#quads-ad1085715
+#Screen1
+lwdgt-footer
+code-block code-block-4
+code-block code-block-5
+code-block code-block-6
+quads-location quads-ad1085712
+quads-location quads-ad1085716
+quads-location quads-ad1085712
+wpb_wrapper td_block_wrap vc_raw_html tdi_51
+wpb_wrapper td_block_wrap vc_raw_html tdi_59
+wpb_wrapper td_block_wrap vc_raw_html tdi_62
+wpb_wrapper td_block_wrap vc_raw_html tdi_65
+|https://radiosarajevo.ba/
+#ad_position_box
+#google-center-div
+#cto_banner_content
+#taboola-alternating-below-article-2
+div.mx-auto mb-6
+ipromAdTag adloaded
+iAdserver adloaded
+ns-h9t8g-e-1 column-container ads-column-container
+flex flex-col items-center hidden lg:flex justify-center w-36
