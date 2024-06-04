@@ -1,5 +1,4 @@
 |youtube.com
-.mirzet
 #player-ads
 #merch-shelf
 #masthead-ad
