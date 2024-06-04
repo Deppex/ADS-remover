@@ -1,4 +1,5 @@
 |https://www.youtube.com/
+.mirzet
 #player-ads
 #merch-shelf
 #masthead-ad
@@ -6,29 +7,35 @@
 #watch-channel-brand-div
 #watch7-sidebar-ads
 #contents > ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)
+#contents > ytd-rich-section-renderer:has(> #content > ytd-statement-banner-renderer)
 #ad_creative_3
 #footer-ads
-ytp-ad-button
-ytp-ad-progress-list
-ytd-companion-slot-renderer
-ytd-in-feed-ad-layout-renderer
-ytd-action-companion-ad-renderer
-ytp-ad-player-overlay-flyout-cta
-ytd-promoted-sparkles-web-renderer
-ytd-player-legacy-desktop-watch-ads-renderer
-ytd-rich-item-renderer > ytd-ad-slot-renderer
-ytd-display-ad-renderer
-ytd-carousel-ad-renderer
-ytd-compact-promoted-video-renderer
-ytd-promoted-sparkles-text-search-renderer
-ytd-ad-slot-renderer
-masthead-ad-control
-ytd-promoted-video-renderer
-ad-container
-ad-div
-video-ads
-ytd-mealbar-promo-renderer
-sparkles-light-cta
+.ytp-ad-button
+.ytp-ad-progress-list
+.ytd-companion-slot-renderer
+.ytd-in-feed-ad-layout-renderer
+.ytd-action-companion-ad-renderer
+.ytp-ad-player-overlay-flyout-cta
+.ytd-promoted-sparkles-web-renderer
+.ytd-player-legacy-desktop-watch-ads-renderer
+.ytd-rich-item-renderer > ytd-ad-slot-renderer
+.ytd-display-ad-renderer
+.ytd-carousel-ad-renderer
+.ytd-compact-promoted-video-renderer
+.ytd-promoted-sparkles-text-search-renderer
+.ytd-ad-slot-renderer
+.masthead-ad-control
+.ytd-promoted-video-renderer
+.ad-container
+.ad-div
+.video-ads
+.ytd-mealbar-promo-renderer
+.sparkles-light-cta
+.style-scope ytd-item-section-renderer > style-scope ytd-feed-nudge-renderer
+.style-scope ytd-statement-banner-renderer
+#panels
+ytd-popup-container
+tp-yt-iron-overlay-backdrop
 |https://hayat.ba/
 #hayat_ba_1000x100_anchor_responsive
 #stpd_close
