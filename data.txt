@@ -1,4 +1,4 @@
-|https://www.youtube.com/
+|youtube.com
 .mirzet
 #player-ads
 #merch-shelf
@@ -36,7 +36,7 @@
 #panels
 ytd-popup-container
 tp-yt-iron-overlay-backdrop
-|https://hayat.ba/
+|hayat.ba
 #hayat_ba_1000x100_anchor_responsive
 #stpd_close
 #tdi_35
@@ -53,7 +53,7 @@ wpb_wrapper td_block_wrap vc_raw_html tdi_51
 wpb_wrapper td_block_wrap vc_raw_html tdi_59
 wpb_wrapper td_block_wrap vc_raw_html tdi_62
 wpb_wrapper td_block_wrap vc_raw_html tdi_65
-|https://radiosarajevo.ba/
+|radiosarajevo.ba
 #ad_position_box
 #google-center-div
 #cto_banner_content
