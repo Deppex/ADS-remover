@@ -33,8 +33,6 @@
 .style-scope ytd-item-section-renderer > style-scope ytd-feed-nudge-renderer
 .style-scope ytd-statement-banner-renderer
 #panels
-ytd-popup-container
-tp-yt-iron-overlay-backdrop
 |hayat.ba
 #hayat_ba_1000x100_anchor_responsive
 #stpd_close
