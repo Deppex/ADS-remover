@@ -877,7 +877,6 @@ a[target='_blank'] > img
 div[align='center'] a[target='_blank']
 img[alt='banner']
 |olx.ba
-iframe
 .baner
 #div-gpt-ad-1663754763362-0
 .native-ad bg-white rounded-sm
